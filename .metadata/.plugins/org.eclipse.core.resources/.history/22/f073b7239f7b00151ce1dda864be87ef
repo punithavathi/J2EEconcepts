@@ -1,0 +1,38 @@
+.jumbotron {
+  background-image:url('googles.jpg');
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:300px;
+}
+.nav  a {
+	display: inline;
+	color: #5a5a5a;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 14px 10px;
+	text-transform: uppercase;
+	
+}
+.nav  li{
+	display: inline;
+}
+.nav {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.nav ul {
+    padding-left: 0;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.image {
+	background-color:#efefef;
+    border-bottom:1px solid #dbdbdb;
+	margin-bottom:13px;
+    font-size:15px;
+}

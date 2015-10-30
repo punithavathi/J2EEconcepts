@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.ControlerServlet.in&apos; to &apos;com.javatpoint&apos;&#x0D;&#x0A;- Original project: &apos;MVCjsp&apos;&#x0D;&#x0A;- Original element: &apos;MVCjsp/src/com.ControlerServlet.in&apos;&#x0D;&#x0A;- Renamed element: &apos;MVCjsp/src/com.javatpoint&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.ControlerServlet.in&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.ControlerServlet.in" name="com.javatpoint" qualified="false" references="true" stamp="1442316671085" textual="false" version="1.0"/>
+</session>

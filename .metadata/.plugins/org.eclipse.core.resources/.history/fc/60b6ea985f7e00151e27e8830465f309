@@ -1,0 +1,19 @@
+
+.display
+   {
+    margin-bottom: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    width: 1366px;
+    height:51px;
+}
+
+.jumbotron{
+	background: url("highway.jpeg");
+	width: 1500px;
+	height: 1000px;
+	background-size: cover;
+}
+
+    
+  

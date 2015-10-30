@@ -1,0 +1,10 @@
+.display
+   {
+    margin-bottom: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    width: 1366px;
+    height:51px;
+}
+    
+  

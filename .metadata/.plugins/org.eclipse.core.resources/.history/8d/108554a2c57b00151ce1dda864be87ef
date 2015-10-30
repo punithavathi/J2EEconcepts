@@ -1,0 +1,26 @@
+package com.tt.in;
+
+import javax.jdo.annotations.PersistenceCapable;
+import javax.jdo.annotations.Persistent;
+
+@PersistenceCapable
+public class Jdo 
+
+{   @Persistent
+	private String name;
+@Persistent
+private String mailid;
+@Persistent
+private String picture;
+ 
+
+public String getName() {
+	return name;
+}
+
+public void setName(String name) {
+	this.name = name;
+}
+	
+}
+

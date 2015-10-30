@@ -1,0 +1,14 @@
+.display
+   {
+    margin-bottom: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    width: 1366px;
+}
+    
+   .img
+   {
+    width: 1366px;
+    height: 616px;
+    margin-bottom: 0px;
+}

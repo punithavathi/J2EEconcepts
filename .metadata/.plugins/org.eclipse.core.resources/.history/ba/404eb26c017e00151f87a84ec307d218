@@ -1,0 +1,13 @@
+<nav class="navbar navbar-inverse" style="
+    margin-bottom: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    width: 1366px;
+
+    
+   .jumbotron
+   {
+    width: 1366px;
+    height: 616px;
+    margin-bottom: 0px;
+}
